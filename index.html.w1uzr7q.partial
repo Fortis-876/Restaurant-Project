@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Matthew's Irie Place Jamaican Restaurant</title>
+</head>
+ <!-- Matthew Cruickshank
+	Filename: index.html>
+	Supporting Files: mip.jpg, jamaica.gif-->
+
+<body style="background:url(jerky.jpg)">
+<p style="text-align: center; font-family:Ariel, Helvetica, sans-serif; font-size:
+0.8em">
+<img src="mip.jpg" alt="MIP Jamaican Restaurant" width="300" height=:"108" />
+
+
+<h1 style="color:white; font-family:Forte, Helvetica, sans-serif; font-size: 15pt;
+		    text-indent: 1em; text-align:center">
+		   Matthew's Irie Place Jamaican Restaurant
+</h1>
+
+<div style="text-align: left; background: black; color: white">
+<b><a href="#aboutus">About us!</a></b>
+</div>
+ <p style="text-align:right">
+ <img src="water.jpg" alt="photo" width="150" height="125" style="float: right: margin: 0 0 0 15" width="326"
+ height="250" />
+
+<p>
+</p>
+
+<hr style="color:rgb(0,153,102); background-color:rgb(0,153,102); clear: right" />
+
+<address style="text-align: center; font-size: 8pt; font-style:normal;
+		font-family: Ariel, Helvetica, sans-serif">
+Arcadium &nbsp;&nbsp;&nbsp;
+Hwy12, Exit 491 &nbsp;&nbsp;&nbsp;
+Derby,GA 20010 &nbsp;&nbsp;&nbsp;
+1 (800) 555-5431
+</address>
+
+	
+</body>
+</html>
